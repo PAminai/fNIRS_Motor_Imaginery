@@ -1,1 +1,1 @@
-# fNIRS_Motor_Imaginery
+# Motor Imaginery fNIRS
